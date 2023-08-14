@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grayDefaultFlag">#6E6666</color>
+    <color name="redFlag">#C71104</color>
+    <color name="yellowFlag">#E8D508</color>
+    <color name="greenFlag">#0DD221</color>
+</resources>
